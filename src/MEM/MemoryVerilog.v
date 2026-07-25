@@ -1,24 +1,6 @@
 
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    01:22:17 12/04/2025 
-// Design Name: 
-// Module Name:    MemoryVerilog 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module MemoryVerilog(
 		clk,address,dataInput,dataOutput,memRead,memWrite
     );
