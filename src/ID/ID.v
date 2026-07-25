@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    19:54:57 12/31/2025 
-// Design Name: 
-// Module Name:    ID 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module ID(clk,regWrite,instruct,pc_new,reg_address,data,zero,
 		j_next,data1,data2,immediate,ins,src_regs,opcode
     );
