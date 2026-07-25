@@ -1,14 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Engineer: morteza nazari
 // 
 // Create Date:    22:48:35 02/03/2026 
-// Design Name: 
-// Module Name:    MIPS 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
+// Design Name: Pipeline MIPS
+// Module Name: MIPS 
+// Project Name: MIPS
 // Description: 
 //
 // Dependencies: 
