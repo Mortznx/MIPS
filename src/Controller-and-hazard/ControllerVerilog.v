@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    20:03:42 12/01/2025 
-// Design Name: 
-// Module Name:    ControllerVerilog 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module ControllerVerilog(opcode,func,aluop,memRead,memWrite,
 		regDst , aluSrc , regWrite , memToReg , branch ,
 		branchN);
