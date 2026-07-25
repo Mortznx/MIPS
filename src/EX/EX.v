@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    09:44:13 01/01/2026 
-// Design Name: 
-// Module Name:    EX 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module EX(aluSrc,regDst,data1,data2,immediate,forMEM,
 		forWB,dstIn,ctrl,forwardA,forwardB,address,data
 		,dstOut
