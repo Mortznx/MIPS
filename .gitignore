@@ -1,0 +1,37 @@
+# Xilinx ISE
+isim/
+xst/
+_xmsgs/
+iseconfig/
+
+# Logs
+*.log
+
+# Generated files
+*.ngc
+*.ngr
+*.ncd
+*.ngd
+*.bit
+*.bgn
+*.cmd_log
+*.lso
+*.syr
+*.xrpt
+*.xmsgs
+*.stx
+*.exe
+*.wdb
+*.jou
+*.pb
+*.rpt
+
+# Temporary files
+*.bak
+*.tmp
+
+# WebTalk
+webtalk_pn.xml
+
+# Lock files
+lockfile
